@@ -7,3 +7,5 @@ function NavBar() {
     </nav>
   );
 }
+
+export default NavBar; // ✅ This line is missing in your current code
